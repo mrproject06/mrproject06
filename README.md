@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sahi Saini, working as an engineer in Embedded domain
+- 👋 Hi, I’m Sahi Saini, working as Software engineer in embedded domain
 - 👀 I’m interested in open source projects and embedded systems
-- 🌱 I’m currently learning linux internals
+- 🌱 I’m currently learning linux internals and Kernel debugging
 - 💞️ I’m looking to collaborate on linux based projects 
 - 📫 How to reach me : send a linkedin request |username| : |mrproject06|
 
