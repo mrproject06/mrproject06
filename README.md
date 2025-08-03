@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sahi Saini, working as Software engineer in embedded domain
+- 👋 Hi, I’m Sahil Saini, working as Software engineer in embedded domain
 - 👀 I’m interested in open source projects and embedded systems
 - 🌱 I’m currently learning linux internals and Kernel debugging
 - 💞️ I’m looking to collaborate on linux based projects 
